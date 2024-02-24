@@ -1,0 +1,29 @@
+body {
+    background-color: gainsboro;
+}
+
+.side-bar {
+    margin-top: 30px;
+    background-color: white;
+    position: sticky;
+    top: 20px;
+    border-radius: 5px;
+
+}
+
+.product-section {
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 0px 26px 0px 0px;
+
+}
+
+.price-btn {
+    background-color: #708dff;
+}
+
+.card-body {
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+}
