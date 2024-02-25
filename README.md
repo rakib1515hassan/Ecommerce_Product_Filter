@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Ecommerce_Product_Filter.git
+   git clone git@github.com:rakib1515hassan/Ecommerce_Product_Filter.git
 
    cd Ecommerce_Product_Filter
 
